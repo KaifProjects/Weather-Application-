@@ -19,7 +19,7 @@ if(!city){
     displayerror("Enter the city name");
     return;
 }
-const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric`
+const url = `add your API's URL here`
 
 try{
     const response = await fetch(url);
@@ -57,3 +57,4 @@ function displayWeather(data){
     humidity.textContent = data.main.humidity;
 
 }
+
