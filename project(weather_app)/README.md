@@ -59,12 +59,6 @@ fetch real-time weather information for any city.
 
 ------------------------------------------------------------------------
 
-## 📸 Screenshots
-
-### 🔍 Weather Interface
-
-![Search
-Interface]<img width="1057" height="770" alt="app interface" src="https://github.com/user-attachments/assets/ed41cc4f-50ef-4a53-96c7-a980ae1077af" />
 
 
 
