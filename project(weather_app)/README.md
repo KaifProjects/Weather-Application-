@@ -61,15 +61,12 @@ fetch real-time weather information for any city.
 
 ## 📸 Screenshots
 
-### 🔍 Search Interface
+### 🔍 Weather Interface
 
 ![Search
-Interface](https://via.placeholder.com/400x250.png?text=Search+UI)
+Interface]<img width="1057" height="770" alt="app interface" src="https://github.com/user-attachments/assets/ed41cc4f-50ef-4a53-96c7-a980ae1077af" />
 
-### 🌤 Weather Result
 
-![Weather
-Result](https://via.placeholder.com/400x250.png?text=Weather+Result)
 
 ------------------------------------------------------------------------
 
