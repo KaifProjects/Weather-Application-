@@ -1,4 +1,4 @@
-const API_KEY = `39367790cd63a11adb5d1cec46ebe7d1`;
+const API_KEY = `your api key here`;
 const inputText = document.querySelector("#inputText");
 const search = document.querySelector("#search");
 const errordiv = document.querySelector("#errordiv");
@@ -55,4 +55,5 @@ function displayWeather(data){
     temperature.textContent = data.main.temp;
     windSpeed.textContent = data.wind.speed;
     humidity.textContent = data.main.humidity;
+
 }
